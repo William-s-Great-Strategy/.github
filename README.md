@@ -1,6 +1,6 @@
 <div align="center">
 
-![William's Great Strategy](https://adrian-48c61.web.app/img/to-share.jpg)
+<img src="https://adrian-48c61.web.app/img/to-share.jpg" alt="William's Great Strategy" width="300" />
 
 # William's Great Strategy
 
